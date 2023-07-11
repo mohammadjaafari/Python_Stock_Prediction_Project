@@ -18,7 +18,7 @@ The data is extracted from https://api.tdameritrade.com/
 
 ## How to run
 
-# The jupyter notebook file will be uploaded soon
+### The jupyter notebook file will be uploaded soon
 
 To run the project, download the jupyter notebook, open the notebook using jupyter and run all cells. (Python, jupyter notebook and the respective Python libraries must be installed prior to running the project)
 
