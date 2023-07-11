@@ -4,7 +4,7 @@
 
 The Project was done as a teamwork collaborative project for my Artificial Intelligence course at LAU.
 
-THe project was done with my teammate Abdel Rahman Al Kadi
+THe project was done with my teammate Abdel Rahman Al Kadi.
 
 THe aim of this project was to demonstrate data analysis, visualization, and machine learning usage (K-Means Clustering) on real life stocks.
 
